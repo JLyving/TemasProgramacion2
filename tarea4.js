@@ -9,7 +9,7 @@ function correctCuadrant(array) {
   let j = 0;
   let x = 0;
   let y = 0;
-  let coordinate = x + ", " + y;
+  
   
   while (i < array.length) {
     j = 0;
